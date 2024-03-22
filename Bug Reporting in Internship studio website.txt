@@ -1,0 +1,3 @@
+Hi,
+My name is Karan Singh Bisht. This is my first bug reporting report so this is not in a proper format. Recently I am learning about cyber security from intership studio and after completely understand the basic concepts ofcyber security i came across the bug in the website of internship studio.
+I have attached a video with this report which tell us that how to find that bug.
